@@ -1,7 +1,5 @@
 ## ImpuGram for Android
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/ImperialGram)
-[![Chat](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/GuAgchat)
-[![Downloads](https://img.shields.io/badge/Download%20at%20-%20Telegram-blue.svg)](https://t.me/GuArelease)
+<img src="https://github.com/oxxxiStorm/Gua-Archive/blob/main/5cb311a2fca40bd62a549a02a11d09b2.jpg" width="150" align="left"/> [![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/ImperialGram)
  
 ### ImpuGram is based on official [Telegram sources.](https://github.com/DrKLO/Telegram)
 
